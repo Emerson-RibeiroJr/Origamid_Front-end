@@ -1,0 +1,1 @@
+Este repositório está focado para o aprendizado diante do curso da plataforma Origamid (https://www.origamid.com/).
